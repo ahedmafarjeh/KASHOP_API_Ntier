@@ -13,3 +13,4 @@ D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\refint\KASHOP.BLL.dll
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.pdb
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\ref\KASHOP.BLL.dll
+D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.sourcelink.json

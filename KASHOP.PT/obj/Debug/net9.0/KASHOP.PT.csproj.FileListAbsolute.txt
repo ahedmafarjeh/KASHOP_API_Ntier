@@ -168,3 +168,4 @@ D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.PT\obj\Debug\net9.0\r
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.PT\bin\Debug\net9.0\Mapster.dll
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.PT\bin\Debug\net9.0\Mapster.Core.dll
 D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.PT\bin\Debug\net9.0\Scalar.AspNetCore.dll
+D:\Full Stack Projects\backend\API\Ecommerce\KASHOP\KASHOP.PT\obj\Debug\net9.0\KASHOP.PT.sourcelink.json
